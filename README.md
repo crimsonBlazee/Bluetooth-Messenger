@@ -1,10 +1,14 @@
 # Bluetooth Messenger
 
+## General
+
+- This application enables two Bluetooth enabled Android devices with this application to communicate with one another via a chat interface.
+
 ## Getting Started
 
 ### Install and Run
 
-- If you would like to simply install and run the application on your Android device, the APK file can be found under *app\build\outputs\apk\debug*
+- If you would like to simply install and run the application on your Android device, the APK file can be found in the main repository directory and it is called *bluetooth-messenger.apk*
 
 ### Android Studio
 
